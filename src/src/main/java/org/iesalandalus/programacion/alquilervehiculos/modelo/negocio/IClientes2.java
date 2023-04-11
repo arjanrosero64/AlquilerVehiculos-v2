@@ -13,6 +13,22 @@ public interface IClientes {
 		
 	}
 	
+	public insertar(Cliente cliente) {
+		return cliente;
+		
+	}
+	
+	public modificar(Cliente cliente, String nombre, String telefono) {
+		
+	}
+	
+	public buscar Cliente(Cliente cliente, ) {
+		
+	}
+	
+	public borrar(Cliente cliente) {
+		
+	}
 	
 	
 }
