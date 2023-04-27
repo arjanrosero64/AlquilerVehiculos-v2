@@ -22,9 +22,24 @@
 	</natures>
 	<linkedResources>
 		<link>
+			<name>src/src/main/java/org/iesalandalus/programacion/alquilervehiculos/Controlador/Controlador1.java</name>
+			<type>1</type>
+			<location>C:/Users/usuario/Desktop/clasesJavaFX/Controladores.java</location>
+		</link>
+		<link>
 			<name>src/src/main/java/org/iesalandalus/programacion/alquilervehiculos/Controlador/Controladores</name>
 			<type>1</type>
-			<location>C:/Users/usuario/Downloads/clasesJavaFX.zip</location>
+			<location>C:/Users/usuario/Desktop/clasesJavaFX/Controlador.java</location>
+		</link>
+		<link>
+			<name>src/src/main/java/org/iesalandalus/programacion/alquilervehiculos/Controlador/Controles.java</name>
+			<type>1</type>
+			<location>C:/Users/usuario/Desktop/clasesJavaFX/Controles.java</location>
+		</link>
+		<link>
+			<name>src/src/main/java/org/iesalandalus/programacion/alquilervehiculos/Controlador/Dialogos.java</name>
+			<type>1</type>
+			<location>C:/Users/usuario/Desktop/clasesJavaFX/Dialogos.java</location>
 		</link>
 	</linkedResources>
 </projectDescription>
